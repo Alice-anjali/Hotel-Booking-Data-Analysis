@@ -30,3 +30,4 @@ Save new data as .csv file and download it for further processing.
 Upload the new .csv file in Power BI, transform data in power query and perform visualization and prepare dashboard.
 
 ### Conclusion
+Average Daily Rate, season, price of the two hotels are some of the factors affecting the booking and cancellation rate of the two. The plotted graphs and dashboard show the affect of these factors on the hotels.
