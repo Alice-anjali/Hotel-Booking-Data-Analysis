@@ -21,4 +21,12 @@ Download the raw data and perform following steps in python to clean the data.
 - Remove unwanted outliers
 
 ### Exploratory Data Analysis
-Perform EDA on the clean data and analyze it with bar graphs, pie chart and line graphs for both the hotels at in their timeline. 
+Perform EDA on the clean data and analyze it with bar graphs, pie chart and line graphs for both the hotels in their timeline. 
+
+### New Data
+Save new data as .csv file and download it for further processing.
+
+### Data Visualization
+Upload the new .csv file in Power BI, transform data in power query and perform visualization and prepare dashboard.
+
+### Conclusion
